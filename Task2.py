@@ -1,0 +1,5 @@
+a = input()
+b = input()
+print("Enter your first name:",a)
+print("Enter your last name:",b)
+print(f"Hello, {a} {b}! Welcome to the python program.")
